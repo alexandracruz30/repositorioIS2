@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:healthyfoodscan/api_handler.dart';
-import 'package:healthyfoodscan/model.dart';
 
 class ResultPage extends StatefulWidget {
   const ResultPage({super.key, required this.text});
